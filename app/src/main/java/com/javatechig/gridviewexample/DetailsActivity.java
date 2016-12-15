@@ -141,7 +141,7 @@ public class DetailsActivity extends ActionBarActivity {
                 translationX(mLeftDelta).translationY(mTopDelta)
                 .setInterpolator(sInterpolator).withEndAction(endAction);
 
-        // Fade out background
+        // anh duy dep trai
         ObjectAnimator bgAnim = ObjectAnimator.ofInt(colorDrawable, "alpha", 0);
         bgAnim.setDuration(ANIM_DURATION);
         bgAnim.start();
