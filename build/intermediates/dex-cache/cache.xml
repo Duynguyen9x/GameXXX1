@@ -2,39 +2,39 @@
 <items version="2" >
 
     <item
-        jar="E:\Lap trinh\Project\Android-GridView-Advance-Tutorial-master\Android-GridView-Advance-Tutorial-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="E:\Lap trinh\Project\Android-GridView-Advance-Tutorial-master\Android-GridView-Advance-Tutorial-master\app\build\intermediates\pre-dexed\debug\classes-c14c9aaf4cff6c3c77e48a275cb5c0ebd7780edf.jar" />
-    </item>
-    <item
-        jar="E:\Lap trinh\Project\Android-GridView-Advance-Tutorial-master\Android-GridView-Advance-Tutorial-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="E:\Lap trinh\Project\Android-GridView-Advance-Tutorial-master\Android-GridView-Advance-Tutorial-master\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-02075627fab15e7c4af866291e692c51dc0095c2.jar" />
-    </item>
-    <item
-        jar="C:\Users\8470p\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
-        <dex dex="E:\Lap trinh\Project\Android-GridView-Advance-Tutorial-master\Android-GridView-Advance-Tutorial-master\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-354ab4eb593b4ef5cac38f3e630808d70329b044.jar" />
-    </item>
-    <item
-        jar="E:\Lap trinh\Project\Android-GridView-Advance-Tutorial-master\Android-GridView-Advance-Tutorial-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jar="F:\Project\GameFull\GameXXX1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="E:\Lap trinh\Project\Android-GridView-Advance-Tutorial-master\Android-GridView-Advance-Tutorial-master\app\build\intermediates\pre-dexed\debug\classes-080872bc7a6b6019ab16c632bd659f0ba30a8803.jar" />
+        <dex dex="F:\Project\GameFull\GameXXX1\app\build\intermediates\pre-dexed\debug\classes-c7966eb7f16822741768644e1f64c3069545bdca.jar" />
     </item>
     <item
-        jar="E:\Lap trinh\AndroidStudio\AndroidStudio-sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jar="C:\Users\Laptop TCC\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="F:\Project\GameFull\GameXXX1\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-45d6e6ea921007d601ab1aac1c3178a39e723027.jar" />
+    </item>
+    <item
+        jar="F:\Project\GameFull\GameXXX1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="F:\Project\GameFull\GameXXX1\app\build\intermediates\pre-dexed\debug\classes-052673168058c8733e853cd5332bf814b82a7ce2.jar" />
+    </item>
+    <item
+        jar="F:\Project\GameFull\GameXXX1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="F:\Project\GameFull\GameXXX1\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-52aeee7753e0fade33bb6eb235d33acca7d68cc2.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="E:\Lap trinh\Project\Android-GridView-Advance-Tutorial-master\Android-GridView-Advance-Tutorial-master\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-d823566268cc27cc4705840df0d1a25e6fce745c.jar" />
+        <dex dex="F:\Project\GameFull\GameXXX1\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-99c1ccd53a7fa88549c32ac544faa9e96cd17557.jar" />
     </item>
 
 </items>
