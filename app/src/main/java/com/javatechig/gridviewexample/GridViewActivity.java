@@ -40,7 +40,7 @@ public class GridViewActivity extends ActionBarActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        Log.i("duy.nq", TAG + " onCreate Start");
+        Log.i("duy.nq", TAG + " onCreate Start: fuck U");
         setContentView(R.layout.activity_gridview);
 
         mGridView = (GridView) findViewById(R.id.gridView);
