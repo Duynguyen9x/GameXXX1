@@ -41,7 +41,7 @@ public class DetailsActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
 
         // anh duy handsome
-        Toast.makeText(this,"pduy",Toast.LENGTH_LONG).show();
+        Toast.makeText(this,"pduysdgsgsgsz",Toast.LENGTH_LONG).show();
 
         //Setting details screen layout
         setContentView(R.layout.activity_details_view);
