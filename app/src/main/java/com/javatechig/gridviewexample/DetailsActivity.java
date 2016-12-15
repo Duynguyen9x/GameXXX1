@@ -142,6 +142,7 @@ public class DetailsActivity extends ActionBarActivity {
                 .setInterpolator(sInterpolator).withEndAction(endAction);
 
         // anh duy dep trai
+        // commit again
         ObjectAnimator bgAnim = ObjectAnimator.ofInt(colorDrawable, "alpha", 0);
         bgAnim.setDuration(ANIM_DURATION);
         bgAnim.start();
