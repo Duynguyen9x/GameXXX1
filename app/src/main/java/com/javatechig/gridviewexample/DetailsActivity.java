@@ -14,6 +14,7 @@ import android.view.animation.DecelerateInterpolator;
 import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.squareup.picasso.Picasso;
 
@@ -38,6 +39,9 @@ public class DetailsActivity extends ActionBarActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+        // anh duy handsome
+        Toast.makeText(this,"pduysdgsgsgsz",Toast.LENGTH_LONG).show();
 
         //Setting details screen layout
         setContentView(R.layout.activity_details_view);
